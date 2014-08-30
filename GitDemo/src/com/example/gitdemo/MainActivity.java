@@ -7,7 +7,7 @@ import android.widget.Button;
 
 public class MainActivity extends Activity {
 
-	Button btnTest, btnTest2;
+	Button btnTest, btnTest2, btnTest3;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
