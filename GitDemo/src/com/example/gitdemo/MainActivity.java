@@ -2,6 +2,7 @@ package com.example.gitdemo;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.graphics.Color;
 import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -24,7 +25,7 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				txtView.setText("Hello Anish");
-				
+				txtView.setBackgroundColor(Color.CYAN);
 			}
 		});
 	}
