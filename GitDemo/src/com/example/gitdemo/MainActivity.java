@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-	Button btnTest, btnTest2, btnTest3, btnTest4, btnTest5, btnTest6;
+	Button btnTest, btnTest2, btnTest3, btnTest4, btnTest5, btnTest6, btnTest7;
 	TextView txtView;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
